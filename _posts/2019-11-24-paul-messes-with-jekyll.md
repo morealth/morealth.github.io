@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paul launches a new site""
+title: "Paul launches a new site"
 date: 2019-11-24
 ---
 
